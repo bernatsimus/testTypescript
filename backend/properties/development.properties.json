@@ -3,7 +3,7 @@
     "host": "127.0.0.1",
     "dbuser": "root",
     "dbpassword": "1234",
-    "port": 3306,
+    "port": 3307,
     "dbname": "local_tsmean",
     "testsMayDropDb": "true"
   },
